@@ -34,14 +34,14 @@ e. Mahasiswa mampu memahami konsep Graphical User Interface (GUI) Tkinter and My
 ## Petunjuk Pengerjaan Soal.
 Buatlah program menggunakan bahasa pemrograman Pyhton dengan spesifikasi sebagai berikut:
 
-+ Ketika Anda memilih untuk melanjutkan kode dari yang telah dikirimkan oleh Asisten :
++ Ketika Anda memilih untuk melanjutkan kode dari yang telah dikirimkan oleh Asisten:*)
   - Latihan Praktikum tidak menggunakan Database, akan tetapi harus mengirimkan bukti screenshot/tangkapan layar bahwa Anda telah menjalankan contoh kode yang telah dikirim.
   - Silakan Anda Lengkapi untuk fitur summary
   - Buatlah *landing Page* (button yang mengarahkan ke halaman daftar residen)
   - Tampilkan Gambar
   - Tambahkan 1 metode yang masih relevan untuk setiap kelas
 
-+ Ketika Anda berkeinginan untuk membuat program yang berbeda dari yang dikirimkan oleh Asisten :
++ Ketika Anda berkeinginan untuk membuat program yang berbeda dari yang dikirimkan oleh Asisten:*)
   - Latihan Praktikum tidak menggunakan Database, akan tetapi harus mengirimkan bukti screenshot/tangkapan layar bahwa Anda telah menjalankan contoh kode yang telah dikirim.
   - Buatlah *landing Page* (button yang mengarahkan ke halaman daftar residen)
   - Buatlah kelasnya dengan minimal terdapat 4 kelas
@@ -126,6 +126,7 @@ Selanjutnya kita akan menghubungkan GUI Python dengan database MySQL menggunakan
 
 ### **Catatan**
 - *Jika terjadi hal kesalahan teknis/program error atau lainnya, dengan hormat mohon untuk melakukan validasi kepada saya, karena tentunya hal tersebut dimungkinkan terjadi diluar prakiraan/dugaan. Demikian, harap untuk menjadi maklum. Atas Perhatian dan Kerjasamanya diucapkan terima kasih*
+- *) Pilih salah satu
 
 
 Barakallahu Fiikum.
