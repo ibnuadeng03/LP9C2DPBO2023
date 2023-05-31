@@ -121,11 +121,11 @@ Selanjutnya kita akan menghubungkan GUI Python dengan database MySQL menggunakan
 ### c. Tampilan detail informasi residen
 ![IMG_20230531_210000](https://github.com/ibnuadeng03/LP9C2DPBO2023/assets/100753882/e353d71d-cb23-4eba-b843-45d600eba3f6)
 
+### d. Tampilan mencoba database
+![WhatsApp Image 2023-05-31 at 22 28 05](https://github.com/ibnuadeng03/LP9C2DPBO2023/assets/100753882/8d1b376d-ae63-40e5-a263-b94bcae70a21)
 
 ### Video Selengkapnya :
 https://github.com/ibnuadeng03/LP9C2DPBO2023/assets/100753882/c88015e1-82d1-43b4-a948-dcee43f72e5b
-
-
 
 
 ### **Catatan**
