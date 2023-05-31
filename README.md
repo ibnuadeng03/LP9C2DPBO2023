@@ -103,25 +103,29 @@ Selanjutnya kita akan menghubungkan GUI Python dengan database MySQL menggunakan
 - Ketika library sudah terinstall, cek kembali apakah mysql connector nya sudah terpasang atau belum dengan cara ketik `pip list` Lalu pastikan library *mysql-connector-python* ada dalam list tersebut 
 - Dengan menggunakan library MySQL Connector ini kalian dapat menghubungkan program python kalian dengan database MySQL
 
-
-## Desain Program :
-[to do]
-
-
-
 ## Alur Program :
-[to do]
+1. Tampilan awal akan menampilkan landing page
+2. Pada menu landing page terdapat tombol `Lihat Data Residen Tahun 2023`.
+3. Jika tombol `Lihat Data Residen Tahun 2023` diklik maka akan menampilkan data residen.
+4. Kemudian di data residen terdapat tombol `selengkapnya` untuk melihat informasi detail dari masing-masing residen.
+5. Terdapat gambar/foto dari maisng-masing residen pula.
  
  
 ## Dokumentasi Running Program
-### a. Tampilan awal program
-| Menu | Foto Tangkapan Layar |
-| --- | --- |
+### a. Tampilan awal program/landing page
+![IMG_20230531_205935](https://github.com/ibnuadeng03/LP9C2DPBO2023/assets/100753882/8dd81376-d488-4e9f-9c49-1b52a7410c97)
 
+### b. Tampilan data residen
+![IMG_20230531_205948](https://github.com/ibnuadeng03/LP9C2DPBO2023/assets/100753882/ed4af63c-be7f-4190-b2c8-8ccc2044dee6)
+
+### c. Tampilan detail informasi residen
+![IMG_20230531_210000](https://github.com/ibnuadeng03/LP9C2DPBO2023/assets/100753882/e353d71d-cb23-4eba-b843-45d600eba3f6)
 
 
 ### Video Selengkapnya :
-[to do]
+https://github.com/ibnuadeng03/LP9C2DPBO2023/assets/100753882/c88015e1-82d1-43b4-a948-dcee43f72e5b
+
+
 
 
 ### **Catatan**
